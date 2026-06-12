@@ -1,13 +1,13 @@
 
 
 <h3 align="center">
-  Developer AWS with a focus on Modern Software Architecture <br> 
-  • Devops • Machine Learnig • AI • AI Generation • Python •
+  Developer Java  <br> 
+  
 </h3>
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=aws,py,vscode,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,java,git,github&theme=dark" />
 
 
 
